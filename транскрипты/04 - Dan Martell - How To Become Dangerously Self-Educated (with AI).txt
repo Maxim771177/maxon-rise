@@ -1,0 +1,599 @@
+Канал: Dan Martell
+Ссылка: https://www.youtube.com/watch?v=6poBPhfB-WY
+Просмотры: 1.3M
+Множитель к среднему: 11.9x
+Длительность: 20:33
+Слов: 4281
+
+[0:00] What do these great minds have in
+[0:01] common? Henry Ford left school at 15 and
+[0:03] taught himself mechanics on a farm, and
+[0:05] he later became the world's second
+[0:07] billionaire. Walt Disney, the guy who
+[0:09] reinvented the whole animation industry,
+[0:11] dropped out of high school at 16. Even
+[0:13] Elon Musk taught himself how to program
+[0:15] at 12. He's now on a mission to colonize
+[0:17] Mars. Did you see the pattern? While
+[0:19] everyone else memorized what they were
+[0:21] told, they took it upon themselves to
+[0:23] learn and grow. The system called them
+[0:25] dropouts. History calls them legends. I
+[0:28] got put on ADHD medication at 11. Taken
+[0:30] out of my home at 12, and in my late
+[0:32] teens I'd been in and out of jail. And
+[0:34] it was in rehab where I saw it, a yellow
+[0:36] book on Java programming sitting on a
+[0:38] desk. And I taught myself to code from
+[0:40] that book. That one book put me on a
+[0:42] path that led to me building and exiting
+[0:45] three tech companies before I was 35.
+[0:47] And every bit of the life I have today.
+[0:49] Here's the problem. The school system
+[0:51] doesn't reward education, it rewards
+[0:53] memorization. And that's created a
+[0:55] generation of people addicted to what I
+[0:57] call shelf-help. Reading books, binging
+[1:00] podcasts, buying freaking courses, and
+[1:02] doing nothing with any of it. Trust me,
+[1:04] I have my own graveyard of courses.
+[1:06] You're not the problem, the method you
+[1:08] inherited is. Today, the tools to
+[1:10] self-educate are better than any
+[1:12] classroom. So, in this video, I'm going
+[1:14] to teach you my self system. Seven steps
+[1:16] to teach you anything with AI as your
+[1:18] unfair advantage. Your education in your
+[1:21] own hands. Starting with select it. What
+[1:24] should I actually learn? There's a gap
+[1:26] between what most people learn and what
+[1:28] people actually need to learn. Growing
+[1:31] up, your parents picked for you. Schools
+[1:33] picked for you. Today, the algorithm is
+[1:35] picking for you. It feels like learning,
+[1:37] but it's so much wasted learning because
+[1:39] it's just for learning's sake. So, for
+[1:41] once in your life, let's take that power
+[1:43] back. And to do that, the first thing
+[1:45] you need to understand is point one,
+[1:46] just-in-time learning. We either learn
+[1:49] just-in-case, meaning in case something
+[1:51] happens, or we learn just-in-time, which
+[1:53] is the thing we need today. Think about
+[1:55] school. They made me study facts about
+[1:58] history that have never come up in
+[2:00] anything I've ever done, but it was just
+[2:02] in case. Then I get into business and I
+[2:05] realize that if I learn how to hire
+[2:06] people, I can use that today and it'll
+[2:08] help me just in time. Trying to memorize
+[2:11] something just in case doesn't actually
+[2:13] make the retention show up because if
+[2:15] I'm trying to learn to solve a problem
+[2:17] that's there today, man am I ever going
+[2:19] to focus on it. You don't need more
+[2:21] information that's just interesting. You
+[2:24] need more execution, the doing. Here's
+[2:26] how we solve this. Just ask yourself one
+[2:28] question. What problem is this helping
+[2:31] me solve? If you can't point to it,
+[2:33] that's shelf help. So, how do we figure
+[2:35] out what you need right now? Here's
+[2:37] where AI changes everything. We just
+[2:39] point to Don't ask AI, let AI ask you.
+[2:43] When I'm talking to my AI, I have it ask
+[2:46] me the questions. I say, here's what I'm
+[2:47] trying to do, here's what I'm trying to
+[2:49] solve, the just in time thing, and then
+[2:51] ask me questions to give it context so
+[2:53] it can give me the best answer. AI
+[2:56] already knows everything about business
+[2:58] and strategy and tactics, but it needs
+[3:01] to know your business, your goals, your
+[3:03] gaps. This is the first time in the
+[3:05] history of the world that the technology
+[3:07] you're using can actually teach you how
+[3:09] to use it better. Whatever excuse you
+[3:11] have before about not learning it,
+[3:13] it doesn't exist now with the world of
+[3:15] AI. And I'm going to teach you in this
+[3:16] video how to educate yourself in a way
+[3:18] you've never seen before. Here's exactly
+[3:20] how I do it. The first thing is I give
+[3:23] my AI a prompt. And this is a big one,
+[3:25] but it'll be below in the description. I
+[3:27] want to self-educate myself on topics
+[3:29] that'll help me solve the biggest
+[3:30] problems I'm currently facing. I don't
+[3:32] want shelf help, no learning for the
+[3:34] sake of learning. Use everything you
+[3:36] know about me. Then interview me to
+[3:38] figure out where learning something new
+[3:39] would have the biggest impact. Then do a
+[3:41] deep research project to build me a list
+[3:44] of resources to learn from. I believe in
+[3:46] just-in-time learning, not just in case.
+[3:48] Only recommend things I can apply
+[3:50] immediately. Don't give me the most
+[3:52] popular resources. Give me the ones that
+[3:54] fit my current struggle and then deliver
+[3:56] it to me as a spreadsheet with the
+[3:58] resources, the format. I'm talking
+[4:00] books, podcasts, creators, courses, the
+[4:02] link and why you picked it for me. If
+[4:04] anything's unclear, ask me before you
+[4:06] start. And I don't know if you noticed
+[4:08] this, but I used my MAPS framework for
+[4:10] prompting it and if you don't know what
+[4:12] it is, I'm going to link it at the end
+[4:14] so you can watch it. Now here's a pro
+[4:15] tip. If you're using Claude, just ask it
+[4:18] to use the ask user tool feature. The
+[4:21] thing is it'll then interview using
+[4:23] multiple choice checkboxes for the whole
+[4:25] thing. It'll even let you rearrange the
+[4:27] priorities of different things that it
+[4:28] might find, but it's super visual, super
+[4:31] interesting and it makes it super easy
+[4:32] for you. Once you give that prompt, you
+[4:34] have to make sure you answer honestly
+[4:36] because garbage in equals garbage out
+[4:38] and the curriculum will suck. It'll then
+[4:40] hand you a custom learning list built
+[4:42] for your exact struggles
+[4:44] >> [music]
+[4:44] >> and then we pick one. One of the
+[4:46] resources, not all of them. Don't get
+[4:48] overwhelmed, just realize one. Start
+[4:51] there. I get picking something is tough
+[4:54] because you're worried you're going to
+[4:54] pick the wrong one and that might not
+[4:56] teach you the thing to get you the
+[4:57] result, but I'm telling you this skill
+[4:58] to develop right now when we talk about
+[5:00] self is selecting anything and building
+[5:03] the skill of getting to the next step
+[5:05] which is going to change your life. By
+[5:07] the way, if you want to see how I use AI
+[5:09] beyond just learning, I put together a
+[5:11] complete guide that talks about the
+[5:13] departments in my company, marketing,
+[5:14] sales, ops, all of it on how I do this.
+[5:17] So just find me on Instagram and DM me
+[5:19] the word AI business and I'll send it
+[5:20] over to you. All right, so now you know
+[5:22] exactly what to learn, but here's where
+[5:24] most people blow it up because they
+[5:26] don't know how to take it in which
+[5:28] brings us to the next part, the E,
+[5:30] extract it. Think about school. [music]
+[5:32] When you're in class and you're learning
+[5:33] like math and biology and history and
+[5:35] you're trying to learn all these
+[5:36] different topics within the same day,
+[5:38] how can you possibly go deep and really
+[5:40] retain any of it? So what we're going to
+[5:42] do is the opposite which brings us to
+[5:45] study, don't read. Everybody wants to
+[5:47] read and listen and consume, but they
+[5:50] don't actually study. Study is way
+[5:51] different. Most people read a business
+[5:53] book like a novel, cover to cover, and
+[5:55] they read all the stories and they're
+[5:57] getting motivated, but that's just
+[5:59] consumption. Nothing sticks. It's almost
+[6:01] like fast food, and nothing changes in
+[6:03] their life. Studying means you're
+[6:05] looking to extract something. You're
+[6:07] looking and you're hunting to actually
+[6:09] implement, not just tour around. When
+[6:11] I'm learning a topic, I got to get
+[6:13] obsessed. Because if you're not
+[6:15] obsessed, you're just interested. And
+[6:17] guess what? Interested people watch
+[6:18] obsessed people change the world. All
+[6:21] those people I mentioned at the
+[6:22] beginning were all changers. Obsessed.
+[6:24] So, there's a few things you got to keep
+[6:25] in mind as you study. And I'm going to
+[6:27] draw them out because there is a big
+[6:29] difference between
+[6:31] study versus read. The first one is you
+[6:35] have to have the daily
+[6:38] dose. One of my non-negotiables is every
+[6:41] morning I read 10 pages of a book. The
+[6:43] key is is you want to make it
+[6:45] manageable. I don't sit down and read
+[6:46] 100 pages of a book, but if I do 10 and
+[6:49] I'm studying and I'm looking for
+[6:51] something, then what's cool is when I go
+[6:52] to bed that night, my brain gets to
+[6:54] process all the things I learn, and then
+[6:56] the next morning, I wake up refreshed to
+[6:58] go study again. What happens is because
+[7:00] I'm learning every day, I've created a
+[7:02] habit of studying that my mind is always
+[7:05] on the lookout for new information. The
+[7:07] second one is we have to come prepared.
+[7:09] That means that you have a place where
+[7:12] you go study. When I come to learn from
+[7:14] somebody, I don't just show up. I sit
+[7:16] down and I'm ready to go. I've got
+[7:18] everything I need to learn because what
+[7:20] I've discovered it's what's caught, not
+[7:22] taught. It's not necessarily what I read
+[7:24] in the pages, is what I was inspired to
+[7:27] think about, and I need to capture that
+[7:29] so I don't lose it. Number three, study,
+[7:32] rewrite.
+[7:34] This one changed my life. A long time
+[7:36] ago, I was reading a book and the author
+[7:38] talked about how when he studies, he
+[7:40] rewrites what he learned in his own
+[7:42] words so that he can internalize it. And
+[7:45] that is pretty much what I've done with
+[7:46] every one of my books. As I'm listening
+[7:49] or reading, I'm rewriting it into my
+[7:51] phone. So, if I go on my phone right
+[7:52] now, I will show it to you. I have a
+[7:54] notes file with everything I've ever
+[7:56] been inspired by that's resonated with
+[7:58] me, all the information, and I literally
+[8:01] rewrote it all in my words. Look at
+[8:04] this.
+[8:05] Let me show you how long this document
+[8:08] is.
+[8:11] You want to always be in rewriting and
+[8:13] rewriting in your own words. So, if I
+[8:15] say exhaust the body, tame the mind,
+[8:17] guess what? That's a quote from the
+[8:19] Greeks. I know that's not what the quote
+[8:21] is because I rewrote it, but that's how
+[8:23] I think about it. And that allows you to
+[8:25] study in a massive way. And then the
+[8:27] fourth
+[8:28] is you have to pick one all caps action
+[8:33] item. You might notice a theme here. I'm
+[8:36] not trying to boil the ocean. I'm trying
+[8:38] to pick one thing and study it. If you
+[8:41] wake up every day and get 1% better, one
+[8:44] tactic better, one idea better, you're
+[8:46] going to wake up in a year completely
+[8:48] different person. And that is why this
+[8:50] book, Buy Back Your Time, is written the
+[8:52] way it's written. Each chapter literally
+[8:54] sets you up for the next thing, from the
+[8:57] time audit to the inbox and management
+[8:59] to then learning how to delegate to
+[9:01] other people, the camcorder method, how
+[9:02] to hire people. Every chapter was
+[9:05] designed for you to study, do, and then
+[9:08] come back and read the next page.
+[9:10] Stopping, reading, synthesizing, it's
+[9:12] actually a scientific term called motor
+[9:14] learning consolidation. Every night, as
+[9:17] we learn things and do things, our brain
+[9:19] will resort and restructure so that you
+[9:21] can come back the next day with better
+[9:23] skills. And here's a pro tip. If there's
+[9:26] people that you follow on social media,
+[9:27] but they've never written a book, but
+[9:29] you're like, man, I'd really love to
+[9:30] study this person and learn more about
+[9:32] this topic from that person. I actually
+[9:34] use AI to create a prompt called the
+[9:36] book architect that I can give it a
+[9:38] person's name and it will write me the
+[9:40] whole book outline with stories and
+[9:42] frameworks and everything that it
+[9:43] extracted from that person's online
+[9:46] public content. I've used it to learn
+[9:48] mindset strategies from people that have
+[9:50] never written a book on the topic, but I
+[9:52] follow their content all for you for
+[9:54] free. And if you want that prompt, it's
+[9:56] below in the description. Now comes the
+[9:58] fun part. Point number four, we got to
+[10:00] feed our mind. I have a completely
+[10:03] different approach to social media than
+[10:04] most. Some people are like, "It's bad
+[10:06] for you. Don't use it. Don't let your
+[10:07] kids use it." I use my social media all
+[10:09] the time to feed my mind. My consumption
+[10:12] becomes my education. So, we have to
+[10:16] feed your mind.
+[10:19] We got the drip and this is daily.
+[10:22] These are things like your daily brief,
+[10:25] your newsfeed, everything that you need
+[10:28] to consume to give you context on what
+[10:30] you're up to. So, to get the drip, first
+[10:32] thing is you go to Claude or ChatGPT and
+[10:35] you give it this prompt. "I want a daily
+[10:38] brief on your space." Whatever space
+[10:40] that is. "Find the most relevant sources
+[10:42] and pull from podcast, X [music]
+[10:44] profiles, Instagram profiles,
+[10:46] newsletters, news sites, and then every
+[10:48] morning scrape them and gather the best
+[10:50] insights into a 10-minute brief I can
+[10:52] read with my coffee. Only include the
+[10:54] relevant things that I'm learning right
+[10:56] now. Cut the noise out. I don't need
+[10:58] clickbait. I don't need distractions. I
+[11:00] don't need things that repeat
+[11:01] themselves. That'll give you a beautiful
+[11:04] daily report that will get your brain
+[11:06] ramped up. That's using my feed to feed
+[11:08] my mind. Now, the pro tip is as it gives
+[11:10] you the report, look at the sources and
+[11:12] follow them on social media. That way it
+[11:14] updates your feed with more of the new
+[11:17] stuff as it comes live. So, if you're
+[11:18] just scrolling while you're waiting in
+[11:19] line somewhere, you're going to get the
+[11:21] good stuff before it even feeds it to
+[11:23] you. The other way is to do a deep dive.
+[11:26] This is the one thing you've decided,
+[11:28] the thing you've picked to go deep on,
+[11:30] the thing you selected. Right? Remember
+[11:32] we talked about that one thing? Now, how
+[11:34] do we go deep on this? Well, we go to
+[11:37] things like Notebook LM. Right now, it's
+[11:39] the best one, where you can give it a
+[11:41] topic that you want to go deep on. It'll
+[11:43] pull the research, the videos, the PDFs,
+[11:46] everything it has online because it's
+[11:48] built by Google, and it'll allow you to
+[11:50] create a custom AI to just quiz and
+[11:53] learn and interact with it. And what's
+[11:55] cool is it will create videos, podcasts,
+[11:58] >> [music]
+[11:58] >> graphics to help you learn even better.
+[12:01] This is the stuff schools were never
+[12:03] able to do that we can do today in the
+[12:05] world of AI. So, if you're a visual
+[12:06] learner, that tool will change your
+[12:08] life. The real pro move is to combine
+[12:11] and automate these two processes.
+[12:13] Actually get your daily chat to feed
+[12:16] itself automatically to Notebook LM, so
+[12:20] that every morning you get the video,
+[12:23] the podcast, and the graphics on the
+[12:24] topics that are relevant to you. The
+[12:27] just-in-time, the daily dose is now
+[12:30] automated, so you can go deep on the
+[12:32] things that'll have the biggest impact
+[12:34] on your life. Now we've got all the
+[12:35] right information, it's flowing in every
+[12:37] single day. But knowledge flowing in is
+[12:39] exactly where shelf help starts. So, we
+[12:42] don't want that to happen. The next part
+[12:44] in the Shelf acronym is live it. We know
+[12:46] what we need, we know how to consume it,
+[12:49] but how do we make it stick? This is
+[12:51] where shelf help goes to die. This is
+[12:53] where we make sure we fight against it
+[12:54] because it cannot win. We actually want
+[12:56] to get the results of the learning. And
+[12:58] this is the hard part because learning
+[13:00] feels wildly productive. But here's a
+[13:02] harsh truth, AI can't do this step for
+[13:05] you. AI has gotten us to this step as
+[13:07] fast as possible in a way that is
+[13:09] completely revolutionary, but now we got
+[13:12] to do the work. So, the first thing we
+[13:13] have to do is set a deadline on the
+[13:15] learning, which is point number five,
+[13:17] the 48-hour rule. If you learn something
+[13:19] and you didn't act on it within 48
+[13:21] hours, then you're doing shelf help
+[13:23] because everything you learn has a shelf
+[13:25] life. Everybody wants to talk about
+[13:27] motivation. Here's what I've learned.
+[13:28] Momentum comes from movement, not
+[13:31] motivation. If you want to be motivated,
+[13:33] make movement. Here's what we're going
+[13:35] to do the moment we learn something.
+[13:37] First, we're going to translate it into
+[13:39] your world, right? Remember we talked
+[13:41] about rewriting the words? But now we're
+[13:43] going to go one step further. You might
+[13:45] take something like you've heard me say
+[13:46] the quote, "Exhaust the body, tame the
+[13:48] mind." So originally it was some Greek
+[13:49] quote, I rewrote it into that, and then
+[13:51] the live it part was I'm going to the
+[13:53] gym tomorrow. Skip the to-do list. It
+[13:56] goes straight into your calendar inside
+[13:58] of 48 hours cuz we don't want to put it
+[14:00] in the to-do list where it goes to die.
+[14:01] It's like when I learned the height
+[14:03] framework, hook, explain, illustrate,
+[14:05] teach. Soon as I learned it, I then
+[14:07] spent the afternoon practicing it live
+[14:10] in front of other people. I was doing a
+[14:12] podcast, I did it at the podcast. I was
+[14:14] doing a training with my team, I did it
+[14:16] at the training with my team. I had to
+[14:17] go shoot reels, I practiced it while I
+[14:19] was shooting those reels. I practiced it
+[14:21] in real time within that 48-hour block.
+[14:24] Why? Cuz I want to integrate it into my
+[14:26] life. So now you're doing it and you
+[14:28] took the action. How do we make sure
+[14:30] that we really understand it? See,
+[14:32] there's a way that all the doctors know
+[14:35] that nobody else gets taught, which is
+[14:36] called the mirror test. When you go to
+[14:38] get your medical degree, they say,
+[14:40] "You're going to learn it, you're going
+[14:42] to do it, and then you're going to teach
+[14:43] it." See, teaching is the mirror. When
+[14:46] you actually study a book, not just to
+[14:49] learn, not just to do, but actually to
+[14:51] get ready to present it to somebody
+[14:53] else, you're going to study in a
+[14:54] completely different way. I remember
+[14:56] reading this study by Yale and they
+[14:58] asked a bunch of people to explain
+[14:59] zippers. And but before they asked them,
+[15:01] they were like, "Do you understand how
+[15:02] zippers work?" They're like, "Yep."
+[15:03] They're like, "Cool, explain it to me."
+[15:04] And then they realized that they didn't
+[15:06] actually know how a zipper worked. So
+[15:08] people can think they know something,
+[15:10] but because they can't explain it, they
+[15:11] don't really know it, which means it
+[15:13] can't teach it, which means it's not
+[15:14] integrated. So here's how we do the
+[15:16] mirror test. First thing we got to do is
+[15:17] just think of somebody that you know,
+[15:19] ideally that you're going to talk to,
+[15:21] where they could find value in what you
+[15:22] just learned. Then next time you see
+[15:24] them, just say, "Hey, can I teach you
+[15:25] something?" They're like, "Yeah, for
+[15:26] sure." And then walk them through it,
+[15:28] and be detailed. Try to break it down in
+[15:31] a way where it's like you learned it,
+[15:32] but now you're going to break it down in
+[15:34] a way that they can understand. Now,
+[15:35] when you're done, have them repeat back
+[15:38] what they heard. If they can repeat back
+[15:40] a comprehensive answer, then you know
+[15:42] you actually taught it properly, which
+[15:43] means you know it, they know it, and
+[15:45] everybody wins. If it doesn't come back
+[15:47] right, then practice it with the next
+[15:48] person. And I do this all the time. I
+[15:50] literally hang out with people like,
+[15:52] "Hey, you want to learn something cool?"
+[15:52] They're like, "Yeah." I'll teach them a
+[15:54] topic. They don't even know I'm doing
+[15:55] it. But then when I'm done, I say, "Hey,
+[15:57] repeat back to me what you heard me say,
+[15:58] cuz I'm just curious if I explained it
+[15:59] right." And they're like, "Oh, well,
+[16:01] there's this, this, and this." And I'm
+[16:03] like, "Mm, no, no, actually that is not
+[16:05] actually how it works. All right, I got
+[16:06] to work on it." That is the mirror test.
+[16:08] When you can have somebody else mirror
+[16:10] back what you learned, then you actually
+[16:12] learned it. You studied it. It's deep.
+[16:14] And here's a pro tip, if you don't have
+[16:16] anybody around, you can literally talk
+[16:19] to your AI. I use WhisperFlow. You can
+[16:21] use whatever voice tool you want, where
+[16:22] you explain it to AI, and then ask it to
+[16:24] grade your explanation against the raw
+[16:26] materials. Maybe you send it to link, to
+[16:28] the thing you just listened to. And ask
+[16:30] it, "Was I vague? Was I wrong? Was I
+[16:32] unclear?" And have it flag the gaps in
+[16:34] how you explained it, so they can reply
+[16:36] and say, "Hey, that was good, but here's
+[16:39] what you could add it to make it even
+[16:40] clearer." So, we're using AI to teach us
+[16:43] how not only to learn, not only how to
+[16:45] live it and execute, but now how to
+[16:46] teach it to other people. So, now we
+[16:48] figured out what we needed to learn, so
+[16:49] we're not just doing self-help. We
+[16:51] figured out how to actually study it. We
+[16:53] learned how to implement it. We learned
+[16:55] how to even teach it. But there's still
+[16:56] one thing left that decides how far you
+[16:58] take it. Which is the F in self, which
+[17:01] is forge it. Forging means how do I get
+[17:03] great at it? How do I become masterful
+[17:06] at it? Because I can just get something
+[17:08] done, and that's cool. But if it's
+[17:09] important to my life, I'm probably going
+[17:11] to need to use it over and over again.
+[17:12] This is about mastery. The The loop gets
+[17:15] knowledge into your life. So, now I have
+[17:17] it in my mind. This last step is what
+[17:19] turns it into actual mastery. Point
+[17:22] number seven, until you [music] can't
+[17:23] get it wrong. Most people practice until
+[17:26] they get it right, which is awesome.
+[17:27] They get it once and then they move on.
+[17:29] But, the pros, they practice until they
+[17:31] can't get it wrong. They practice until
+[17:33] that 360 on the wake surf gets completed
+[17:37] and now 99% of the time they're landing
+[17:39] their 360. You've probably heard the
+[17:41] famous Bruce Lee quote, "I fear not the
+[17:43] man who's practiced [music] 10,000 kicks
+[17:45] once. I fear the man who's practiced one
+[17:47] kick 10,000 times." That is mastery. I
+[17:51] like to think about this in different
+[17:53] levels of mastery. The first level is
+[17:56] 10,000 hours. You may have heard this.
+[17:59] Malcolm Gladwell made this famous, where
+[18:02] he talked about mastery requires 10,000
+[18:04] hours of doing something. When I
+[18:06] recently hired a coach to teach me how
+[18:08] to wake surf, I brought in a guy named
+[18:09] Austin Keen. The guy is a stud. The
+[18:12] first question I asked him was, "How
+[18:14] long have you been wake surfing for?"
+[18:15] He's like, "Well, I actually started
+[18:17] skin boarding when I was 10." Today,
+[18:19] he's in his mid-30s. He's got way more
+[18:21] than 10,000 hours, but that's where it
+[18:23] starts. That's level one. And we want to
+[18:26] keep going up with intensity. Then we
+[18:28] have 1,000 days of dedication. Think
+[18:32] about this, 1,000 days. And if you run
+[18:35] the math, this is 24,000
+[18:38] hours of focus. Then, if we keep going
+[18:40] up, we have 100 months of focus in study
+[18:45] and attention for mastery. That works
+[18:47] out to about 73,000
+[18:49] hours of focus. Then we have 10 years
+[18:53] and that's over 80,000 hours of doing
+[18:57] the thing. We all need to start
+[18:59] somewhere, which is level one. But,
+[19:01] level two, 1,000 days, 100 months, 10
+[19:04] years. Most people forget to get great
+[19:07] mastery at anything requires a decade.
+[19:10] When I started my YouTube channel, I
+[19:13] wanted to get good. I didn't even think
+[19:15] about great. I just thought, "Hey, if I
+[19:17] show up for a decade every week and just
+[19:20] published and practice using the SELF
+[19:23] framework, then maybe someday I'd have
+[19:26] 100,000 followers." We've got 3 million
+[19:29] today. That is wild, but I ran the SELF
+[19:31] loop and focused on one thing long
+[19:34] enough for it to take care of itself
+[19:36] because I decided to become a master at
+[19:39] it. I went past the 10,000, past the
+[19:41] 1,000 days, past the 100 months to a
+[19:44] decade. And the truth is, I've never
+[19:46] seen someone not change their life their
+[19:48] whole life in 1,000 days. Remember the
+[19:50] legends I talked about at the beginning?
+[19:51] We've got four. We got Disney. We got
+[19:53] Musk. Everybody you admire, they didn't
+[19:55] wait for permission. They didn't need a
+[19:58] curriculum. [music] And today we have
+[20:00] AI, so we don't have any excuses. That
+[20:03] one book in rehab changed my whole life.
+[20:05] Imagine what it could do for you. Not to
+[20:08] read it, but to study it. Not just to
+[20:10] study it, but to do it. And not just to
+[20:13] do it once, but commit to it. So, I want
+[20:15] to know in the comments below, what's
+[20:17] the one thing you're going to go and
+[20:18] study? And if you want AI working in
+[20:20] every corner of your business while you
+[20:23] learn, DM me AI business on Instagram
+[20:25] and I'll send you the guide. And now, if
+[20:27] you want to learn the MAPS framework for
+[20:28] how do you actually prompt with AI, I've
+[20:30] linked a video up here. I'll see you on
+[20:32] the other side.
